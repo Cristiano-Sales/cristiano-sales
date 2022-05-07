@@ -1,18 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I have been working in the health area since 2014, as a Radiology Technician.
+- 🌱 However, in 2021 I decided to take the helm of my life, towards technology.
+- 👯 I'm looking to collaborate in the programming area. I want to be part of a team of developers.
+- 🤔 I'm looking for help with BackEnd as this is where I want to start my specialization.
+- 💬 Ask me about anything, but please don't expect me to know everything.
+- 📫 To contact me, choose one of the badges below and click on the one you prefer.
+- 😄 Pronouns: he, him.
+- ⚡ Fun fact: I was punk in my teens.
 
-**Cristiano-Sales/cristiano-sales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 <div>
   <a href="linkedin.com/in/cristianosales"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:cristianosalesneves@gmail.com"><img alt="LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
