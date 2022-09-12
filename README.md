@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/cristianosales)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristianosalesneves@gmail.com)
 
-## Technologies I'm focusing on:
+## technologies I studied:
 - Unix and Bash
 - Git, GitHub and the Internet
 - HTML, CSS and JS
@@ -30,7 +30,7 @@
 [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.w3schools.com/js/)
 [![Jest](	https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/pt-BR/docs/getting-started)
 
-## Of the technologies I am studying:
+## Technologies I'm focusing on:
 - Docker
 - SQL
 
