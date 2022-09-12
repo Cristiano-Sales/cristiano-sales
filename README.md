@@ -13,14 +13,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristianosalesneves@gmail.com)
 
 ## technologies I studied:
-- Unix and Bash
-- Git, GitHub and the Internet
-- HTML, CSS and JS
-- Unit tests with Jest
-- REACT
-- Agile methodologies
-- Automated tests with RTL
-- REDUX
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://pt-br.reactjs.org/docs/getting-started.html)
 [![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
@@ -31,8 +23,6 @@
 [![Jest](	https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/pt-BR/docs/getting-started)
 
 ## Technologies I'm focusing on:
-- Docker
-- SQL
 
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
