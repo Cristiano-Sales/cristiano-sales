@@ -1,13 +1,4 @@
-### Hi there 👋
-
-- 🔭 I have been working in the health area since 2014, as a Radiology Technician.
-- 🌱 However, in 2021 I decided to take the helm of my life, towards technology.
-- 👯 I'm looking to collaborate in the programming area. I want to be part of a team of developers.
-- 🤔 I'm looking for help with BackEnd as this is where I want to start my specialization.
-- 💬 Ask me about anything, but please don't expect me to know everything.
-- 📫 To contact me, choose one of the badges below and click on the one you prefer.
-- 😄 Pronouns: he, him.
-- ⚡ Fun fact: I was punk in my teens.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristiano-Sales&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/cristianosales)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristianosalesneves@gmail.com)
@@ -27,5 +18,13 @@
 [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristiano-Sales&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+### Hi there 👋
 
+- 🔭 I have been working in the health area since 2014, as a Radiology Technician.
+- 🌱 However, in 2021 I decided to take the helm of my life, towards technology.
+- 👯 I'm looking to collaborate in the programming area. I want to be part of a team of developers.
+- 🤔 I'm looking for help with BackEnd as this is where I want to start my specialization.
+- 💬 Ask me about anything, but please don't expect me to know everything.
+- 📫 To contact me, choose one of the badges below and click on the one you prefer.
+- 😄 Pronouns: he, him.
+- ⚡ Fun fact: I was punk in my teens.
