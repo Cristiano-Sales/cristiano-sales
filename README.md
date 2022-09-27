@@ -28,7 +28,7 @@
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/pt-br)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristiano-Sales&count_private=true&show_icons=true&theme=radical&include_all_commits=true](https://www.linkedin.com/in/cristianosales/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cristiano-Sales&count_private=true&show_icons=true&theme=radical&include_all_commits=true&PAT_1=https://www.linkedin.com/in/cristianosales/)](https://www.linkedin.com/in/cristianosales/)
 
 ### Hi there 👋
 
