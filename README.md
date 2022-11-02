@@ -27,7 +27,7 @@
 [![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)](https://docs.microsoft.com/pt-br/windows/wsl/)
 <!-- [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/doc/) -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristiano-sales)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristiano-sales&show_icons=true&show_icons=true&theme=radical)](https://www.linkedin.com/in/cristianosales/)
 
 ### Hi there 👋
 
